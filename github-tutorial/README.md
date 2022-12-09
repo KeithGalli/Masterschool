@@ -1,3 +1,4 @@
 ### Collection of my favorite Python Turtle Artwork
 
-![this is a gif](./resources/test-gif.gif)
+<img src="./resources/test-gif.gif" width="50%">
+
