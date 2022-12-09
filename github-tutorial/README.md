@@ -1,3 +1,3 @@
 ### Collection of my favorite Python Turtle Artwork
 
-![./resources/test-gif.gif](this is a gif)
+![this is a gif](./resources/test-gif.gif)
